@@ -1,4 +1,4 @@
-echo OFF
+@echo OFF
 echo Welcome to the resizer batch
 echo Enter the source folder path :
 
